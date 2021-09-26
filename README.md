@@ -1,2 +1,2 @@
 # onlineclass-auto-join-greet
-macOS Automator script. Automatically join the class and send greeting message in the chat-box. Compatible with “Skyroom.”
+macOS Automator script that can be triggered by a calendar event’s alert. It will automatically open the class URL, log in (if needed), join the class and send a custom greeting message in the chat-box. Compatible with famous Iranian meeting service “Skyroom.”
