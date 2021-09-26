@@ -13,4 +13,4 @@ macOS Automator script that can be triggered by a calendar event’s alert. It w
 
 ## Triggering by macOS Calendar event
 1. Convert your workflow to an application. (`⌥⇧⌘C`)
-2. Add an alert for your event in Calendar and set the custom alert to open the automation file.
+2. Add an alert for your event and set the custom alert to open the automation file.
