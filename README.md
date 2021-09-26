@@ -8,7 +8,9 @@ macOS Automator script that can be triggered by a calendar event’s alert. It w
 
 
 ### Join class as a user
-4. In the shell script box `cat /Users/examplePath/username.txt | pbcopy` (and the other one for the password), replace the example path with your username and password plain text file path. (Using rich-text-format file file `.rtf` may prevent the text from getting pasted.)
+In the shell script box `cat /Users/examplePath/username.txt | pbcopy` (and the other one for the password), replace the example path with your username and password plain text file path. (Using rich-text-format file file `.rtf` may prevent the text from getting pasted.)
+
+4. Run and test the workflow. If something went wrong you may rerecord the corresponding "Watch Me Do" section(s).
 
 ## Triggering by macOS Calendar event
 1. Convert your workflow to an application. (`⌥⇧⌘C`)
