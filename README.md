@@ -15,4 +15,4 @@ In the shell script box `cat /Users/examplePath/username.txt | pbcopy` (and the 
 ## Triggering by macOS Calendar event
 1. Convert your workflow to an application. (`⌥⇧⌘C`)
 2. Add an alert for your event and set the custom alert to open the automation file.
-3. You may need to grant permissions for the first time.
+3. You may need to grant some permissions the first time.
